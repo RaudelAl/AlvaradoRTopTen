@@ -17,6 +17,7 @@ body{
     text-align: center;
    font-size: 60px;
    color: rgb(155, 34, 48)
+   
 }
 .logo{
     border-radius: 50%;
@@ -24,4 +25,12 @@ body{
     border:3px  solid;
     color: rgb(8, 0, 255);
     
+}
+
+.textmove{
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    text-shadow: black 2px 1px 3px;
+
 }
