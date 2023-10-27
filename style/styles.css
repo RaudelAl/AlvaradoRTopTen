@@ -72,9 +72,10 @@ top: 960px;
 
 
 
-    .acor{
+    .accordion-flush{
         position: absolute;
        left: 100px;
+       top: 650px;
         width: 25%;
     }
 .home{
@@ -86,11 +87,45 @@ top: 960px;
 }
 
 .box {
-    width: 200px;
-    height: 100px;
+    width: 600px;
+    height: 300px;
     border: 1px solid #9B2230;
     padding: 10px;
     margin: 10px;
     background-color: #9B2230;
     border-radius: 20px;
+    position: absolute;
+    right: 1230px;
+    top: 600px;
   }
+
+  .accordion {
+    --bs-accordion-btn-bg: #9B2230;
+    --bs-accordion-active-bg: #9B2230;
+    --bs-accordion-active-color: #000;
+    --bs-accordion-bg: #9B2230;
+    --bs-accordion-color: #9B2230;
+    --bs-accordion-btn-focus-box-shadow: none;
+  }
+ 
+  /* .accordion-flush.accordion {
+    --bs-accordion-btn-bg: #9B2230;
+    --bs-accordion-active-bg: #9B2230;
+    --bs-accordion-active-color: #000000;
+    --bs-accordion-bg: #9B2230;
+    --bs-accordion-color: #9B2230;
+    --bs-accordion-btn-focus-box-shadow: none;
+    --bs-accordion-btn-focus-border-color: unset;
+    text-align: center;
+  } */
+  
+  
+  .accordion-item h2 button{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: black;
+    color: #000;
+  }
+
+
