@@ -13,6 +13,7 @@ body{
 }
 
 .centext{
+    font-family: NarutoFont;
     text-align: center;
    font-size: 60px;
    color: rgb(155, 34, 48)
