@@ -47,3 +47,25 @@ body{
 
 
 }
+
+
+.arrowsizel{
+width: 40px;
+height: 40px;
+position: absolute;
+right: 60px;
+top: 960px;
+
+
+} 
+
+.arrowsizer{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right:20px;
+    /* bottom: 50px; */
+    top: 960px;
+    
+    
+    } 
