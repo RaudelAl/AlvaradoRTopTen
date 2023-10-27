@@ -1,3 +1,14 @@
 body{
     background-color: rgb(62, 62, 62);
 }
+
+.movepic{
+    display: flex;
+    justify-content: end;
+}
+
+.centext{
+    text-align: center;
+   font-size: 60px;
+   color: rgb(155, 34, 48)
+}
