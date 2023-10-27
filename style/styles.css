@@ -31,6 +31,7 @@ body{
     position: absolute;
     top: 30px;
     left: 200px;
-    text-shadow: black 2px 1px 3px;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+
 
 }
