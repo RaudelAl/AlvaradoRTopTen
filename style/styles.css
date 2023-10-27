@@ -24,7 +24,6 @@ body{
     border-spacing: 50cap;
     border:3px  solid;
     color: rgb(8, 0, 255);
-    
 }
 
 .textmove{
@@ -32,9 +31,10 @@ body{
     top: 100px;
     left: 200px;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-
-
 }
+
+
+
 
 .lorem{
     text-align: left;
@@ -42,7 +42,8 @@ body{
     padding-right: 100px;
     font-family: NarutoFont;
    font-size: 25px;
-   color: rgb(255, 255, 255)
+   color: rgb(255, 255, 255);
    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+
 
 }
