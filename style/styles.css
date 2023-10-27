@@ -74,9 +74,9 @@ top: 960px;
 
     .accordion-flush{
         position: absolute;
-       left: 100px;
-       top: 650px;
-        width: 25%;
+       padding-left: 89px;
+       top: 620px;
+        width: 455px;
     }
 .home{
     color: rgb(155, 34, 48);
@@ -87,15 +87,15 @@ top: 960px;
 }
 
 .box {
-    width: 600px;
-    height: 300px;
+    width: 400px;
+    height: 250px;
     border: 1px solid #9B2230;
     padding: 10px;
     margin: 10px;
     background-color: #9B2230;
     border-radius: 20px;
     position: absolute;
-    right: 1230px;
+    right: 930px;
     top: 600px;
   }
 
