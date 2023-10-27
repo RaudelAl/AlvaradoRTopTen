@@ -18,3 +18,10 @@ body{
    font-size: 60px;
    color: rgb(155, 34, 48)
 }
+.logo{
+    border-radius: 50%;
+    border-spacing: 50cap;
+    border:3px  solid;
+    color: rgb(8, 0, 255);
+    
+}
