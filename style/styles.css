@@ -5,6 +5,13 @@
 
 body{
     background-color: rgb(62, 62, 62);
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1400px;
+    margin: 0;
+    display: flex;
 }
 
 .movepic{
@@ -16,8 +23,9 @@ body{
     font-family: NarutoFont;
     text-align: center;
    font-size: 60px;
-   color: rgb(155, 34, 48)
-   
+   color: white;
+   position: relative;
+  bottom: 90px;
 }
 .logo{
     border-radius: 50%;
@@ -27,8 +35,9 @@ body{
 }
 
 .textmove{
+
     position: absolute;
-    top: 100px;
+    top: 0px;
     left: 235px;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
@@ -127,5 +136,26 @@ top: 860px;
     text-decoration: black;
     color: #000;
   }
+.btnNaruto{
+    position: absolute;
+    top: 520px;
+    width: 400px;
+    height: 70px;
+    border-radius: 30px;
+    background-color: #9B2230;
+    font-family: NarutoFont;
+    font-size: 27px;
+}
 
+.btnOnePiece{
+    position: absolute;
+    top: 640px;
+    width: 400px;
+    height: 70px;
+    border-radius: 30px;
+    background-color: #A62724;
+    font-family: NarutoFont;
+    font-size: 27px;
+    text-align: center
+}
 
