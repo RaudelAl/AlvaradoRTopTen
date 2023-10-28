@@ -34,6 +34,11 @@ body{
     color: rgb(255, 255, 255);
 }
 
+.logo:hover{
+    color: red;
+    opacity: 0.9;
+}
+
 .textmove{
 
     position: absolute;
