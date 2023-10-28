@@ -4,5 +4,5 @@
 // Top 10 website
 // create a top 10 website list with a partner
 // Peer Reviewed by : AK Dutt
-// Peer Comment : Webiste is grat. I love the design and the use of the no face pictures.
+// Peer Comment : Webiste is great. I love the design and the use of the no face pictures.
 discriptions are great.
