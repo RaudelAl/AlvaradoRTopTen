@@ -54,7 +54,7 @@ width: 40px;
 height: 40px;
 position: absolute;
 right: 60px;
-top: 960px;
+top: 860px;
 
 
 } 
@@ -65,7 +65,7 @@ top: 960px;
     position: absolute;
     right:20px;
     /* bottom: 50px; */
-    top: 960px;
+    top: 860px;
     
     
     } 
@@ -74,7 +74,7 @@ top: 960px;
 
     .accordion-flush{
         position: absolute;
-       padding-left: 89px;
+       padding-left: 98px;
        top: 620px;
         width: 455px;
     }
