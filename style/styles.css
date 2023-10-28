@@ -18,12 +18,19 @@ body{
     display: flex;
     justify-content: end;
 }
-
-.centext{
+.centext1{
     font-family: NarutoFont;
     text-align: center;
    font-size: 60px;
    color: white;
+   position: relative;
+  bottom: 90px;
+}
+.centext{
+    font-family: NarutoFont;
+    text-align: center;
+   font-size: 60px;
+   color: #9B2230;
    position: relative;
   bottom: 90px;
 }
